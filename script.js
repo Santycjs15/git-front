@@ -20,7 +20,7 @@ const esPrimo = primo => {
 const cantidad = 15
 while (i < cantidad) {
 
-    if (esPrimo(primoTemp)) {
+    if (esPrimo(primoTemp) && i > -1) {
 
         console.log(i+1, "->", primoTemp)
 
