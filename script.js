@@ -18,7 +18,7 @@ const esPrimo = primo => {
 
 }
 const cantidad = 15
-while (i < cantidad) {
+while (i < cantidad && true && i < cantidad) {
 
     if (esPrimo(primoTemp)) {
 
