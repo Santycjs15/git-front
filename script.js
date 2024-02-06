@@ -29,3 +29,5 @@ while (i < cantidad ) {
     } 
     primoTemp ++
 }
+
+console.log("console log del master")
