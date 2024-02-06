@@ -1,3 +1,5 @@
+console.log("console desde programaodrC")
+
 let i = 0
 let primoTemp = 1
 
